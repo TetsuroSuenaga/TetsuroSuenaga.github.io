@@ -28,7 +28,10 @@
                <a href="https://github.com/deepmind/tapnet" class="url-link">TAP-Net</a>
                が最近登場したことからこのモデルを採用することも考えられる。
           </p>
-
+          
+          <p class="text-lg font-bold my-2">実行結果</p>
+          <img src="@/assets/uma.jpg" alt="実行結果" class="my-3 w-80 mx-auto" loading=”lazy”>
+         
           <p class="text-lg font-bold my-2">リンク</p>
           <a href="https://github.com/deep-beyond/deep-beyond-android.git"
                class="url-link"> https://github.com/deep-beyond/deep-beyond-android.git </a>
