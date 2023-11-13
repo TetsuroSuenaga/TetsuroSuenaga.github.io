@@ -5,7 +5,7 @@
 			<HomeView />
 			<SkillView class="mt-10"/>
 			<ExperienceView class="mt-10"/>
-			<!-- <WorksView class="mt-10"/> -->
+			<WorksView class="mt-10"/>
 		</div>
 		<FooterView />
 	</div>
@@ -18,7 +18,7 @@
 	import HomeView from '@/components/HomeView.vue'
 	import SkillView from '@/components/SkillView.vue'
 	import ExperienceView from '@/components/ExperienceView.vue'
-	// import WorksView from '@/components/WorksView.vue'
+	import WorksView from '@/components/WorksView.vue'
 
 	export default {
 		name: 'TopPage',
@@ -27,7 +27,7 @@
 			HomeView,
 			SkillView,
 			ExperienceView,
-			// WorksView,
+			WorksView,
 			FooterView
 		}
 	}
